@@ -1,0 +1,13 @@
+* Gleam
+
+A lesser version of Zenburn theme for the Blinkshell terminal.
+
+TODO Add screenshot or two.
+
+** Install
+
+TODO Add instructions.
+
+** License
+
+GPL as the original artwork.
