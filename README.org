@@ -3,7 +3,7 @@
 A lesser version of [[https://github.com/jnurmine/Zenburn][Zenburn]] theme for the Blinkshell terminal.
 
 #+BEGIN_HTML
-<p>
+<p style="margin-bottom: 0">
  <figure>
   <img src="https://github.com/andreythegeek/gleam/raw/dev/screenshots/FigA_Empty.jpg"
        alt="Theme colors in real environment." />
@@ -13,7 +13,7 @@ A lesser version of [[https://github.com/jnurmine/Zenburn][Zenburn]] theme for t
 #+END_HTML
 
 #+BEGIN_HTML
-<p>
+<p style="margin-bottom: 0">
  <figure>
   <img src="https://github.com/andreythegeek/gleam/raw/dev/screenshots/FigB_Emacs.jpg"
        alt="Terminal emulator running Emacs program." />
