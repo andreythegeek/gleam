@@ -1,12 +1,13 @@
 * Gleam
 
-A lesser version of Zenburn theme for the Blinkshell terminal.
+A lesser version of [[https://github.com/jnurmine/Zenburn][Zenburn]] theme for the Blinkshell terminal.
 
 #+BEGIN_HTML
 <p>
  <figure>
-  <img src="https://github.com/andreythegeek/gleam/raw/dev/screenshots/FigA_Empty.jpg" />
-  <figcaption></figcaption>
+  <img src="https://github.com/andreythegeek/gleam/raw/dev/screenshots/FigA_Empty.jpg"
+       alt="Theme colors in real environment." />
+  <figcaption>Blinkshell running some <a href="http://pastebin.com/LPtpFFub">color script</a>.</figcaption>
  </figure>
 </p>
 #+END_HTML
@@ -14,15 +15,18 @@ A lesser version of Zenburn theme for the Blinkshell terminal.
 #+BEGIN_HTML
 <p>
  <figure>
-  <img src="https://github.com/andreythegeek/gleam/raw/dev/screenshots/FigB_Emacs.jpg" />
-  <figcaption></figcaption>
+  <img src="https://github.com/andreythegeek/gleam/raw/dev/screenshots/FigB_Emacs.jpg"
+       alt="Terminal emulator running Emacs program." />
+  <figcaption>Works great with Emacs!</figcaption>
  </figure>
 </p>
 #+END_HTML
+
+Zenburn theme for Emacs itself can be found in [[https://github.com/bbatsov][Bozhidar Barsov]]'s [[https://github.com/bbatsov/zenburn-emacs][zenburn-theme]] repository.
 
 ** Install
 
-TODO Add instructions.
+Just copy an URL of the [[https://raw.githubusercontent.com/andreythegeek/gleam/dev/gleam.js][raw JavaScript file]] and import it using New Theme dialog as described on the [[https://github.com/blinksh/themes][official themes repository]] page.
 
 ** License
 
